@@ -1,0 +1,6 @@
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab5\Lab05Lib\Lab05Lib\bin\Debug\Lab05Lib.dll
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab5\Lab05Lib\Lab05Lib\bin\Debug\Lab05Lib.pdb
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab5\Lab05Lib\Lab05Lib\obj\Debug\Lab05Lib.csproj.AssemblyReference.cache
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab5\Lab05Lib\Lab05Lib\obj\Debug\Lab05Lib.csproj.CoreCompileInputs.cache
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab5\Lab05Lib\Lab05Lib\obj\Debug\Lab05Lib.dll
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab5\Lab05Lib\Lab05Lib\obj\Debug\Lab05Lib.pdb
